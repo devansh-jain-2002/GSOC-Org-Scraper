@@ -1,0 +1,3251 @@
+[
+    {
+        "name": "Joplin",
+        "description": "Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor.",
+        "tech-stack": [
+            "javascript",
+            "react",
+            "typescript",
+            "electron",
+            "React-Native"
+        ],
+        "fields": [
+            "database",
+            "search",
+            "synchronisation",
+            "note-taking",
+            "office"
+        ]
+    },
+    {
+        "name": "Open Food Facts",
+        "description": "Open Food Facts is the \"Wikipedia of food\". Our community collects information about all the food products in the world, using mobile phones to help people make better choices for themselves and the planet, and to transform the whole food system along the way.",
+        "tech-stack": [
+            "python",
+            "machine learning",
+            "perl",
+            "tensorflow",
+            "flutter"
+        ],
+        "fields": [
+            "open data",
+            "health",
+            "environment",
+            "mobile",
+            "food"
+        ]
+    },
+    {
+        "name": "Dart",
+        "description": "The Dart language gives you a fast developer experience and works on any platform. Dart powers hot reload enabling you to make a code change and instantly see results in your running app, and compiles to ARM and x64 machine code enabling quick app startup times for mobile, desktop and the web.",
+        "tech-stack": [
+            "flutter",
+            "dart"
+        ],
+        "fields": [
+            "programming languages",
+            "mobile apps"
+        ]
+    },
+    {
+        "name": "OpenAFS",
+        "description": "AFS is a distributed filesystem product, pioneered at Carnegie Mellon University and supported and developed as a product by Transarc Corporation (now IBM Pittsburgh Labs). It offers a client-server architecture for federated file sharing and replicated read-only content distribution, providing location independence, scalability, security, and transparent migration capabilities.",
+        "tech-stack": [
+            "c",
+            "python",
+            "git",
+            "ansible",
+            "filesystems"
+        ],
+        "fields": [
+            "testing",
+            "network",
+            "storage",
+            "filesystems"
+        ]
+    },
+    {
+        "name": "LibreOffice",
+        "description": "LibreOffice is a modern Free & Open Source Office suite, one of the largest open source projects, and used by millions of users worldwide. LibreOffice is compatible with many file formats like Microsoft\u00ae Word, Excel, PowerPoint and Publisher.",
+        "tech-stack": [
+            "python",
+            "java",
+            "c++"
+        ],
+        "fields": [
+            "office suite",
+            "desktop application",
+            "end user application"
+        ]
+    },
+    {
+        "name": "GNU Image Manipulation Program",
+        "description": "GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
+        "tech-stack": [
+            "c",
+            "GEGL"
+        ],
+        "fields": [
+            "graphics",
+            "design",
+            "photography",
+            "illustration"
+        ]
+    },
+    {
+        "name": "Cuneiform Digital Library Initiative (CDLI)",
+        "description": "The Cuneiform Digital Library Initiative (CDLI) represents the efforts of an international group of Assyriologists, museum curators and historians of science to make available through the internet the form and content of cuneiform inscriptions dating from the beginning of writing, ca. 3350 BC.",
+        "tech-stack": [
+            "mysql",
+            "javascript",
+            "docker",
+            "php",
+            "SCSS"
+        ],
+        "fields": [
+            "linguistics",
+            "History",
+            "culture"
+        ]
+    },
+    {
+        "name": "Apache Software Foundation",
+        "description": "The Foundation provides an established framework for intellectual property and financial contributions that simultaneously limits contributors potential legal exposure. Through a collaborative and meritocratic development process, Apache projects deliver enterprise-grade, freely available software products that attract large communities of users.",
+        "tech-stack": [
+            "c",
+            "java",
+            "c++"
+        ],
+        "fields": [
+            "big data",
+            "cloud",
+            "libraries",
+            "other"
+        ]
+    },
+    {
+        "name": "Intel Video and Audio for Linux",
+        "description": "We enable video/audio stack for Intel on Linux. We deliver our code to FFmpeg, FFmpeg DNN, Gstreamer, and libXCam.",
+        "tech-stack": [
+            "c/c++",
+            "opengl",
+            "Codec",
+            "Media",
+            "Imaging"
+        ],
+        "fields": [
+            "media",
+            "imaging",
+            "Codec"
+        ]
+    },
+    {
+        "name": "R project for statistical computing",
+        "description": "R provides a wide variety of statistical and graphical techniques, and is highly extensible. R is often the tool of choice for research in statistical methodology.",
+        "tech-stack": [
+            "c",
+            "javascript",
+            "c++",
+            "r-project",
+            "fortran"
+        ],
+        "fields": [
+            "visualization",
+            "machine learning",
+            "data science",
+            "graphics",
+            "statistics"
+        ]
+    },
+    {
+        "name": "strace",
+        "description": "strace is a diagnostic, debugging and instructional userspace utility with a traditional command-line interface for Linux. It is used to monitor and tamper with interactions between processes and the Linux kernel, which include system calls, signal deliveries, and changes of process state.",
+        "tech-stack": [
+            "c",
+            "shell",
+            "make",
+            "autotools",
+            "gawk"
+        ],
+        "fields": [
+            "debugging",
+            "tracing",
+            "diagnostic"
+        ]
+    },
+    {
+        "name": "Processing Foundation",
+        "description": "The Processing Foundation\u2019s mission is to promote software literacy and visual literacy \u2014 and to make these fields accessible to diverse communities.\n\nThe Processing Foundation was founded in 2012 after more than a decade of work with the original Processing software.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "android",
+            "java",
+            "opengl"
+        ],
+        "fields": [
+            "education",
+            "web",
+            "graphics",
+            "creative coding",
+            "design"
+        ]
+    },
+    {
+        "name": "The ns-3 Network Simulator Project",
+        "description": "Are you interested in contributing to a widely-used performance evaluation tool for computer networking research? [ns-3](https://www.nsnam.",
+        "tech-stack": [
+            "python",
+            "django",
+            "c++"
+        ],
+        "fields": [
+            "computer networking",
+            "network simulation"
+        ]
+    },
+    {
+        "name": "Machine Learning for Science (ML4SCI)",
+        "description": "Machine Learning for Science (ML4SCI) is an umbrella organization for machine learning-related projects in science. ML4SCI brings together researchers from universities and scientific laboratories with motivated students to join existing scientific collaborations and contribute to cutting edge science projects across a wide variety of disciplines.",
+        "tech-stack": [
+            "python",
+            "machine learning",
+            "c++",
+            "data analysis",
+            "artificial intelligence"
+        ],
+        "fields": [
+            "machine learning",
+            "science and medicine",
+            "algorithms",
+            "physics",
+            "astronomy"
+        ]
+    },
+    {
+        "name": "Fortran-lang",
+        "description": "Fortran-lang is an open-source community that develops tools and libraries for modern Fortran development. Our flagship projects include the standard library, Fortran build system and package manager, as well as the interactive compiler, LFortran.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "fortran"
+        ],
+        "fields": [
+            "compilers",
+            "programming languages",
+            "build systems",
+            "libraries",
+            "Fortran"
+        ]
+    },
+    {
+        "name": "CGAL Project",
+        "description": "CGAL is a software library that offers a number of reliable geometric data structures and algorithms. CGAL components operate in 2D and 3D, and sometime in arbitrary dimensions.",
+        "tech-stack": [
+            "c++",
+            "qt"
+        ],
+        "fields": [
+            "geometry",
+            "mesh processing",
+            "computation geometry",
+            "geometry processing"
+        ]
+    },
+    {
+        "name": "Open Technologies Alliance - GFOSS",
+        "description": "Open Technologies Alliance (GFOSS)  is a non-profit organization, with 37 Universities and Research Centers as its shareholders. Our main goal is to promote Openness.",
+        "tech-stack": [
+            "javascript",
+            "c/c++",
+            "nodejs",
+            "python 3",
+            "Machine Learning (ML)"
+        ],
+        "fields": [
+            "web",
+            "robotics",
+            "open hardware",
+            "c++",
+            "nodered"
+        ]
+    },
+    {
+        "name": "SymPy",
+        "description": "SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible.",
+        "tech-stack": [
+            "python",
+            "numpy",
+            "jupyter"
+        ],
+        "fields": [
+            "mathematics",
+            "physics",
+            "symbolic mathematics"
+        ]
+    },
+    {
+        "name": "AFLplusplus",
+        "description": "We are dedicated to provide the most effective fuzzing frameworks. Our work includes AFL++, the most effective and flexible fuzzer, and libafl, a library to build your own fuzzer with the most modern techniques and technologies.",
+        "tech-stack": [
+            "llvm",
+            "rust",
+            "fuzzing",
+            "qemu"
+        ],
+        "fields": [
+            "fuzzing",
+            "ci"
+        ]
+    },
+    {
+        "name": "Audacity",
+        "description": "Audacity is a free and open-source digital audio editor and recording application for Windows, macOS and Linux. Audacity was started in the fall of 1999 by Dominic Mazzoni and Roger Dannenberg at Carnegie Mellon University and was released on May 28, 2000.",
+        "tech-stack": [
+            "c++",
+            "qt",
+            "cmake",
+            "wxwidgets",
+            "VST"
+        ],
+        "fields": [
+            "audio",
+            "editing",
+            "compression",
+            "Sound",
+            "Effects"
+        ]
+    },
+    {
+        "name": "MIT App Inventor",
+        "description": "MIT App Inventor is a free, open source web app that anyone can use to build mobile apps. It has been used by over 8 million people worldwide who have built more than 30 million apps.",
+        "tech-stack": [
+            "javascript",
+            "java",
+            "gwt"
+        ],
+        "fields": [
+            "education",
+            "development tools",
+            "android"
+        ]
+    },
+    {
+        "name": "Performance Co-Pilot",
+        "description": "Performance Co-Pilot (PCP) provides a framework and services to support system-level performance monitoring and management. It presents a unifying abstraction for all of the performance data in a system, and many tools for interrogating, retrieving and processing that data.",
+        "tech-stack": [
+            "c",
+            "grafana",
+            "redis",
+            "htop",
+            "sysstat"
+        ],
+        "fields": [
+            "metrics",
+            "visualization",
+            "distributed",
+            "performance",
+            "observability"
+        ]
+    },
+    {
+        "name": "Gentoo Foundation",
+        "description": "Every user has work they need to do. The goal of Gentoo is to design tools and systems that allow a user to do that work as pleasantly and efficiently as possible, as they see fit.",
+        "tech-stack": [
+            "c",
+            "python",
+            "shell",
+            "linux",
+            "bash"
+        ],
+        "fields": [
+            "operating systems",
+            "security",
+            "embedded",
+            "init",
+            "package"
+        ]
+    },
+    {
+        "name": "Xfce",
+        "description": "Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.",
+        "tech-stack": [
+            "c",
+            "gtk"
+        ],
+        "fields": [
+            "desktop",
+            "customization"
+        ]
+    },
+    {
+        "name": "Open Genome Informatics",
+        "description": "The Open Genome Informatics group represents an umbrella organization consisting of several open source and open access genomics and bioinformatics projects worldwide. Our goals are to develop and maintain a collection of sustainable software tools for managing, analyzing, visualizing, storing, and disseminating genomic data.",
+        "tech-stack": [
+            "python",
+            "mysql",
+            "react",
+            "r-project",
+            "graph"
+        ],
+        "fields": [
+            "genomics",
+            "bioinformatics",
+            "cloud",
+            "biology",
+            "data discovery"
+        ]
+    },
+    {
+        "name": "The NetBSD Foundation",
+        "description": "NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system. It is available for a wide range of platforms, from large-scale servers and powerful desktop systems to handheld and embedded devices.",
+        "tech-stack": [
+            "c",
+            "shell script",
+            "make",
+            "unix",
+            "bsd"
+        ],
+        "fields": [
+            "kernel",
+            "packaging",
+            "userland",
+            "unix",
+            "bsd"
+        ]
+    },
+    {
+        "name": "Center for Research in Open Source Software (CROSS)",
+        "description": "The University of California\u2019s Center for Research in Open Source Software (CROSS) bridges the gap between academic research and successful open source projects by promoting innovative research and incubator projects maintained by UC-affiliated scientists and researchers. We transfer cutting-edge technology resulting from UC-originating research to industry via successful open source projects.",
+        "tech-stack": [
+            "python",
+            "c/c++",
+            "verilog",
+            "apache arrow",
+            "matlab/simulink"
+        ],
+        "fields": [
+            "hardware",
+            "data science",
+            "networking",
+            "data management",
+            "systems"
+        ]
+    },
+    {
+        "name": "CCExtractor Development",
+        "description": "CCExtractor Development is the creator of the de-facto captions extraction tool - CCExtractor. It is the one tool that is free, portable, open source and community managed that can take a recording from a TV show and generate an external subtitle file for it.",
+        "tech-stack": [
+            "c",
+            "linux",
+            "rust",
+            "flutter"
+        ],
+        "fields": [
+            "video",
+            "subtitles",
+            "mobile",
+            "peer to peer"
+        ]
+    },
+    {
+        "name": "TARDIS RT Collaboration",
+        "description": "TARDIS is a tool that creates synthetic observations (spectra) for exploding stars (supernovae). \n\nA supernova marks the brilliant death throes of a star, during which it outshines its entire galaxy.",
+        "tech-stack": [
+            "python",
+            "numba",
+            "numpy",
+            "jupyter",
+            "pandas"
+        ],
+        "fields": [
+            "visualization",
+            "big data",
+            "simulation",
+            "astrophysics"
+        ]
+    },
+    {
+        "name": "Haskell.org",
+        "description": "Haskell is an advanced, general-purpose, purely functional programming language.  It has a strong, static type system with Hindley-Milner type inference.",
+        "tech-stack": [
+            "haskell",
+            "ghc"
+        ],
+        "fields": [
+            "compilers",
+            "programming languages",
+            "functional programming",
+            "programming tools"
+        ]
+    },
+    {
+        "name": "omegaUp",
+        "description": "omegaUp  is a non-profit organization (501c3) aimed to increase the number of talented Software Engineers in Latin America. Our open source platform omegaUp.",
+        "tech-stack": [
+            "python",
+            "mysql",
+            "php",
+            "typescript",
+            "vue.js"
+        ],
+        "fields": [
+            "education",
+            "web",
+            "cloud",
+            "edtech",
+            "UX/UI"
+        ]
+    },
+    {
+        "name": "Polypheny",
+        "description": "Polypheny is an adaptive database system using innovative ideas to jointly manage data in multiple models. It bridges the gap between polystores and hybrid transaction/analytical processing (HTAP) systems.",
+        "tech-stack": [
+            "javascript",
+            "java",
+            "sql",
+            "angular"
+        ],
+        "fields": [
+            "database",
+            "big data",
+            "cloud",
+            "polystore",
+            "nosql"
+        ]
+    },
+    {
+        "name": "Orcasound",
+        "description": "Orcasound is an open source project that makes it easy to listen live for animals that make sounds, like the endangered orcas in Washington State (USA). We use underwater microphones (hydrophones) deployed in the habitat of the Southern Resident Killer Whales (SRKWs) to listen for the calls, whistles, and clicks they make almost continuously -- intense signals that can be heard 10 km away, often before the orcas are visible.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "raspberry pi",
+            "elixir",
+            "NextJs"
+        ],
+        "fields": [
+            "web",
+            "audio",
+            "ai",
+            "acoustics",
+            "community science"
+        ]
+    },
+    {
+        "name": "Oppia Foundation",
+        "description": "The Oppia project aims to empower learners across the globe by providing access to high-quality, engaging education. We envision a world where access to high-quality education is not a privilege but a human right.",
+        "tech-stack": [
+            "python",
+            "android",
+            "google app engine",
+            "angular",
+            "typescript"
+        ],
+        "fields": [
+            "education",
+            "web",
+            "community",
+            "nonprofit",
+            "social impact"
+        ]
+    },
+    {
+        "name": "Flashrom",
+        "description": "Flashrom is a utility for identifying, reading, writing, verifying and erasing flash chips. It is designed to flash BIOS/EFI/coreboot/firmware/optionROM images on mainboards, network/graphics/storage controller cards, and various other programmer devices.",
+        "tech-stack": [
+            "c",
+            "x86",
+            "bios",
+            "rom",
+            "spi"
+        ],
+        "fields": [
+            "hardware",
+            "drivers",
+            "firmware",
+            "flash chips",
+            "low level programming"
+        ]
+    },
+    {
+        "name": "Internet Health Report",
+        "description": "The Internet Health Report monitors the conditions of networks that compose the Internet. It aims to provide network operators, policymakers, and other stakeholders, with a better understanding of the Internet's infrastructure and its evolution.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "apache kafka",
+            "VueJS"
+        ],
+        "fields": [
+            "networking",
+            "routing",
+            "communication",
+            "internet",
+            "data analytics"
+        ]
+    },
+    {
+        "name": "Django Software Foundation",
+        "description": "Django is a high-level Python Web framework originally developed at the Lawrence-Journal World. Django was designed to handle two challenges: the intensive deadlines of a newsroom and the stringent requirements of the experienced Web developers who wrote it.",
+        "tech-stack": [
+            "python",
+            "django"
+        ],
+        "fields": [
+            "web",
+            "python"
+        ]
+    },
+    {
+        "name": "OpenMRS",
+        "description": "OpenMRS provides the foundational, electronic medical record technology for more than 6,500 health facilities in over 40 countries, touching and helping millions of patients throughout  the world.  \n\nThe OpenMRS Community\u2019s mission is to improve healthcare delivery in resource-constrained environments.",
+        "tech-stack": [
+            "mysql",
+            "javascript",
+            "java",
+            "fhir",
+            "Cypress"
+        ],
+        "fields": [
+            "platform",
+            "Electronic Medical Record System"
+        ]
+    },
+    {
+        "name": "Keptn",
+        "description": "Keptn is an event-driven orchestration engine for cloud-native apps. Started in 2018, it is a member project of the Cloud Native Computing Foundation.",
+        "tech-stack": [
+            "golang",
+            "kubernetes",
+            "angular",
+            "Helm"
+        ],
+        "fields": [
+            "cloud",
+            "devops",
+            "sre",
+            "CloudNative",
+            "Operations"
+        ]
+    },
+    {
+        "name": "MoveIt",
+        "description": "MoveIt is the most widely used software for robotic manipulation and has been used on over 150 robots. It is released under the terms of the BSD license, and thus free for industrial, commercial, and research use.",
+        "tech-stack": [
+            "ros",
+            "c++"
+        ],
+        "fields": [
+            "robotics",
+            "motion planning",
+            "trajectory generation",
+            "kinematics"
+        ]
+    },
+    {
+        "name": "LibreHealth",
+        "description": "LibreHealth is the foundation of a worldwide ecosystem of open source Health IT innovation and is a place where people can come together to build tools that enhance the quality of healthcare around the world.\n\nWe currently have under our umbrella the following projects:\n\n- LibreHealth Toolkit (http://librehealth.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "android",
+            "java",
+            "dart/flutter"
+        ],
+        "fields": [
+            "web",
+            "deep learning",
+            "hfoss",
+            "radiology",
+            "mobile apps"
+        ]
+    },
+    {
+        "name": "VideoLAN",
+        "description": "The VideoLAN project is led by and composed of a team of volunteers who believe in the power of open source to rock the multimedia world. We produce multimedia software notably the famous VLC media player as well as designated libraries and codecs.",
+        "tech-stack": [
+            "c",
+            "c++",
+            "qt",
+            "assembly",
+            "video"
+        ],
+        "fields": [
+            "audio",
+            "streaming",
+            "video",
+            "codecs",
+            "media database"
+        ]
+    },
+    {
+        "name": "Wellcome Sanger Tree of Life",
+        "description": "The Tree of Life programme of the Sanger Institute is generating high-quality reference genome assemblies for thousands of species, and releasing them to the community to help decipher genome function and organisation, and improve our understanding of biodiversity. Novel software and methods are required for the processing of this vast amount of data.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "rust",
+            "nextflow"
+        ],
+        "fields": [
+            "genomics",
+            "bioinformatics",
+            "data analysis",
+            "genome assembly"
+        ]
+    },
+    {
+        "name": "libvirt",
+        "description": "Libvirt is a library and toolkit providing abstraction for various hypervisors. It can be used from a number of languages.",
+        "tech-stack": [
+            "kvm",
+            "hypervisor",
+            "qemu",
+            "lxc"
+        ],
+        "fields": [
+            "virtualization",
+            "library"
+        ]
+    },
+    {
+        "name": "PowerDNS",
+        "description": "PowerDNS is a suite of open source DNS software, consisting of the Authoritative Server, the PowerDNS Recursor , and dnsdist..",
+        "tech-stack": [
+            "c++",
+            "DNS"
+        ],
+        "fields": [
+            "DNS recursive solutions",
+            "Authoritative DNS software"
+        ]
+    },
+    {
+        "name": "Debian",
+        "description": "The Debian Project is an association of Free Software developers who\nvolunteer their time and effort in order to produce and maintain a completely free\noperating system Debian. Since its launch, the Debian project has grown to comprise more than 1,000 members with official developer status, alongside many more volunteers and contributors.",
+        "tech-stack": [
+            "c",
+            "python",
+            "java",
+            "ruby",
+            "perl"
+        ],
+        "fields": [
+            "web",
+            "robotics",
+            "graphics",
+            "cloud",
+            "SDR"
+        ]
+    },
+    {
+        "name": "freifunk",
+        "description": "Freifunk unites wireless communities like Ninux, qaul.net, Guifi.",
+        "tech-stack": [
+            "c",
+            "python",
+            "javascript",
+            "openwrt",
+            "gnu/linux"
+        ],
+        "fields": [
+            "embedded systems",
+            "open hardware",
+            "routing",
+            "wireless networks",
+            "federation"
+        ]
+    },
+    {
+        "name": "GNSS-SDR",
+        "description": "GNSS-SDR is an open source Global Navigation Satellite Systems software receiver, written in C++, that is able to work either from raw signal samples stored in a file, or in real-time with a radio-frequency front-end as signal source, and performs all the signal processing until the observable computation and Position-Velocity-Time solution. Its modularity allows users to populate the framework with their own algorithms, allowing to put the focus on the signal processing implementation without worrying about how to embed that algorithm in a whole GNSS receiver.",
+        "tech-stack": [
+            "c",
+            "c++",
+            "sdr"
+        ],
+        "fields": [
+            "gnss",
+            "geolocation",
+            "navigation",
+            "software defined radio",
+            "communications"
+        ]
+    },
+    {
+        "name": "The Palisadoes Foundation",
+        "description": "The Palisadoes Foundation\u2019s open-source software projects support community groups in organising their daily activities. A significant proportion of our software contributions come from university students studying software engineering.",
+        "tech-stack": [
+            "mongodb",
+            "node.js",
+            "flutter",
+            "graphql",
+            "typescript"
+        ],
+        "fields": [
+            "web",
+            "api",
+            "database",
+            "cloud",
+            "mobile"
+        ]
+    },
+    {
+        "name": "MDAnalysis",
+        "description": "MDAnalysis is a Python library for the analysis of computer simulations of many-body systems at the molecular scale, spanning use cases from interactions of drugs with proteins to novel materials. It is written by scientists for scientists and is used for cutting edge research in biophysics, chemistry, soft-matter physics, and materials research around the world in academia and national research labs.",
+        "tech-stack": [
+            "python",
+            "cython",
+            "c/c++"
+        ],
+        "fields": [
+            "science",
+            "computational-chemistry",
+            "high-performance-computing",
+            "molecular-simulation",
+            "soft-matter-physics"
+        ]
+    },
+    {
+        "name": "Kart Project",
+        "description": "We\u2019re drowning in data, but the geospatial world lags badly behind in versioning tools compared to our software counterparts. Kart is solving this with a practical open tool for versioning datasets, enabling you to work more efficiently and collaborate better.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "git",
+            "gis"
+        ],
+        "fields": [
+            "version control",
+            "gis",
+            "data",
+            "point clouds",
+            "spatial"
+        ]
+    },
+    {
+        "name": "Swift",
+        "description": "Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.\n\nThe goal of the Swift project is to create the best available language for uses ranging from systems programming, to mobile and desktop apps, scaling up to cloud services.",
+        "tech-stack": [
+            "c++",
+            "cmake",
+            "swift"
+        ],
+        "fields": [
+            "compilers",
+            "cross-platform",
+            "Packages",
+            "Server development",
+            "Standard Libraries"
+        ]
+    },
+    {
+        "name": "JabRef e.V.",
+        "description": "JabRef is one of the most widely used citation and reference management tools. It helps students and researchers to stay on top of their literature by assisting at every step of a research project: collecting and organizing literature sources, discovering the latest research, citing references in LaTeX and other text editors, and sharing interesting papers with collaborators.",
+        "tech-stack": [
+            "java",
+            "javafx",
+            "bibtex"
+        ],
+        "fields": [
+            "science",
+            "library",
+            "literature",
+            "latex"
+        ]
+    },
+    {
+        "name": "JdeRobot",
+        "description": "Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, DDS..",
+        "tech-stack": [
+            "python",
+            "ros",
+            "gazebo",
+            "opencv",
+            "tensorflow"
+        ],
+        "fields": [
+            "education",
+            "artificial intelligence",
+            "robotics",
+            "computer vision",
+            "developer tools"
+        ]
+    },
+    {
+        "name": "moja global",
+        "description": "Open source MRV software for forestry, agriculture and other land uses; democratising technology for nature based solutions and greenhouse gas accounting..",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "c++",
+            "docker",
+            "Data-Science"
+        ],
+        "fields": [
+            "climate monitoring",
+            "nature based solutions",
+            "land system modelling"
+        ]
+    },
+    {
+        "name": "Metasploit",
+        "description": "The Metasploit Framework is both a penetration testing system and a development platform for creating security tools and exploits. The framework is used by network security professionals to perform penetration tests, system administrators to verify patch installations, product vendors to perform regression testing, and security researchers world-wide.",
+        "tech-stack": [
+            "c",
+            "python",
+            "postgresql",
+            "ruby",
+            "assembly"
+        ],
+        "fields": [
+            "security",
+            "penetration testing",
+            "offensive security",
+            "exploitation"
+        ]
+    },
+    {
+        "name": "KDE Community",
+        "description": "Community of technologists, designers, writers and advocates who work to ensure freedom for all people through our software..",
+        "tech-stack": [
+            "c++",
+            "qt",
+            "qml",
+            "data structures"
+        ],
+        "fields": [
+            "education",
+            "science",
+            "applications",
+            "desktop environment"
+        ]
+    },
+    {
+        "name": "Unikraft",
+        "description": "Unikraft is a fast, secure and open-source Unikernel Development Kit.\n\nBy tailoring the operating system, libraries and configuration to the particular needs of your application, it vastly reduces virtual machine and container image sizes to a few KBs, provides blazing performance, and drastically cuts down your software stack\u2019s attack surface.",
+        "tech-stack": [
+            "c",
+            "python",
+            "xen",
+            "kvm",
+            "assembly language"
+        ],
+        "fields": [
+            "virtualization",
+            "cloud",
+            "software reuse",
+            "software configurability"
+        ]
+    },
+    {
+        "name": "Forschungszentrum J\u00fclich",
+        "description": "Conducting research for a changing society: This is what drives us at Forschungszentrum J\u00fclich. As a member of the Helmholtz Association, we aim to tackle the grand societal challenges of our time and conduct research into the possibilities of a digitized society, a climate-friendly energy system, and a resource-efficient economy.",
+        "tech-stack": [
+            "python",
+            "mpi",
+            "high performance computing",
+            "pytorch",
+            "gpu"
+        ],
+        "fields": [
+            "neuroscience",
+            "data analytics",
+            "astrophysics",
+            "data-intensive science",
+            "earth-system monitoring"
+        ]
+    },
+    {
+        "name": "OWASP Foundation",
+        "description": "As the world\u2019s largest non-profit organization concerned with software security, OWASP:\n\n* Supports the building of impactful projects; \n* Develops & nurtures communities through events and chapter meetings worldwide; \n* Provides educational publications & resources\n\nin order to enable developers to write better software, and security professionals to make the world's software more secure..",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "java",
+            "ZAP",
+            "Juice Shop"
+        ],
+        "fields": [
+            "web",
+            "cloud",
+            "application security",
+            "cybersecurity",
+            "DevSecOps"
+        ]
+    },
+    {
+        "name": "Eclipse Foundation",
+        "description": "The Eclipse Foundation provides our global community of individuals & organizations with a mature, scalable, and business-friendly environment for OSS collaboration and innovation.\n\nEclipse is an open source community that's focused around key principles of transparency, openness, and vendor neutrality: the work that we do is done in a manner that can be observed by anybody with an interest; project teams welcome new ideas, and invites others to participate;  and vendor neutrality ensures that no single vendor can dominate a project and that everybody plays by the same set of rules (a so-called \"level playing field\").",
+        "tech-stack": [
+            "java",
+            "che",
+            "deeplearning",
+            "eclipsejavaide",
+            "jakartaee"
+        ],
+        "fields": [
+            "robotics",
+            "automotive",
+            "tools",
+            "cloud native java",
+            "iot & edge"
+        ]
+    },
+    {
+        "name": "GitLab",
+        "description": "GitLab is The DevOps Platform that empowers organizations to maximize the overall return on software development by delivering software faster and efficiently, while strengthening security and compliance. With GitLab, every team in your organization can collaboratively plan, build, secure, and deploy software to drive business outcomes faster with complete transparency, consistency and traceability.",
+        "tech-stack": [
+            "javascript",
+            "ruby on rails",
+            "go",
+            "ruby",
+            "vue"
+        ],
+        "fields": [
+            "cloud",
+            "devops"
+        ]
+    },
+    {
+        "name": "Synfig",
+        "description": "Synfig is a 2D open-source animation software. It is capable to produce vector artwork and also can work with bitmap images.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "gtk",
+            "gtkmm"
+        ],
+        "fields": [
+            "2d/3d graphics",
+            "animation",
+            "vector graphics"
+        ]
+    },
+    {
+        "name": "Open Bioinformatics Foundation (OBF)",
+        "description": "The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.\n\nOur main activities are: running and supporting the BOSC conferences; organizing and supporting developer-centric \"Hackathon\" events; participating in the Google Summer of Code program on behalf of our member projects as an umbrella mentoring organization; managing servers, colocation facilities, bank account, domain names, and other assets for the benefit of our member projects; public opinion and policy statements about matters related to Open Source and Open Science in bioinformatics.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "c++",
+            "html/css",
+            "Git/GitHub"
+        ],
+        "fields": [
+            "open science",
+            "genomics",
+            "bioinformatics",
+            "workflows",
+            "Open Source Bioinformatics"
+        ]
+    },
+    {
+        "name": "The Julia Language",
+        "description": "The Julia Language is an open-source, high level, and dynamic language built to be easy to use like Python while having speed near C++. As an umbrella organization, we house projects related to core Julia (the language) as well as the broader Julia ecosystem.",
+        "tech-stack": [
+            "machine learning",
+            "julia",
+            "data science",
+            "gui",
+            "models"
+        ],
+        "fields": [
+            "math",
+            "machine learning",
+            "science",
+            "data science",
+            "graphs"
+        ]
+    },
+    {
+        "name": "LibreCube Initiative",
+        "description": "LibreCube promotes open source for space technology. \n\nOur vision is to enable everyone to get involved in building systems for exploration of near and remote locations using open source hardware and software.",
+        "tech-stack": [
+            "python",
+            "mongodb",
+            "rest",
+            "micropython",
+            "zmq"
+        ],
+        "fields": [
+            "space",
+            "cubesat",
+            "mission control",
+            "Communication Protocols"
+        ]
+    },
+    {
+        "name": "Matrix.org",
+        "description": "Matrix is an open standard for interoperable, decentralised, real-time communication over IP. It can be used to power Instant Messaging, VoIP/WebRTC signalling, Internet of Things communication - or anywhere you need a standard HTTP API for publishing and subscribing to data whilst tracking the conversation history.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "rust"
+        ],
+        "fields": [
+            "interoperability",
+            "decentralisation",
+            "Secure Messaging"
+        ]
+    },
+    {
+        "name": "Open Robotics",
+        "description": "Support the  development, distribution, and adoption of open source software for use  in robotics research, education, and product development..",
+        "tech-stack": [
+            "ros",
+            "gazebo",
+            "ignition",
+            "Open-RMF"
+        ],
+        "fields": [
+            "robotics",
+            "simulation"
+        ]
+    },
+    {
+        "name": "OpenWISP",
+        "description": "OpenWISP is an open source network management system which runs on low cost hardware and can be used to manage networks: from public wifi, university wifi, to mesh networks and IoT..",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "django",
+            "lua",
+            "openwrt"
+        ],
+        "fields": [
+            "networking",
+            "network management system",
+            "wifi",
+            "vpn",
+            "sdn"
+        ]
+    },
+    {
+        "name": "FreeType",
+        "description": "FreeType is a freely available software library to render fonts.\n\nIt is written in C, designed to be small, efficient, highly customizable, and portable while capable of producing high-quality output (glyph images) of most vector and bitmap font formats.",
+        "tech-stack": [
+            "c",
+            "autotools",
+            "meson"
+        ],
+        "fields": [
+            "library",
+            "rendering",
+            "fonts",
+            "opentype",
+            "truetype"
+        ]
+    },
+    {
+        "name": "checkstyle",
+        "description": "Checkstyle is a development tool to help programmers write Java code that is easy to read and adheres to a coding standard. Our utility automates the process of checking Java code to spare humans of this boring (but important) task.",
+        "tech-stack": [
+            "java",
+            "antlr"
+        ],
+        "fields": [
+            "static code analysis\u200e",
+            "code review tool",
+            "coding standards",
+            "coding conventions"
+        ]
+    },
+    {
+        "name": "Genome Assembly and Annotation",
+        "description": "The Genome Assembly and Annotation section of EMBL-EBI brings together key reference resources in the field of genomics:\n\n- Ensembl (http://www.ensembl.",
+        "tech-stack": [
+            "python",
+            "mysql",
+            "docker",
+            "pytorch",
+            "nextflow"
+        ],
+        "fields": [
+            "machine learning",
+            "genomics",
+            "big data",
+            "cloud",
+            "hpc"
+        ]
+    },
+    {
+        "name": "GNU Octave",
+        "description": "GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems and for performing other numerical experiments.",
+        "tech-stack": [
+            "c++",
+            "hg"
+        ],
+        "fields": [
+            "mathematics",
+            "scientific computing",
+            "numerical computation",
+            "numerical methods",
+            "matlab"
+        ]
+    },
+    {
+        "name": "Mayor's Office of New Urban Mechanics",
+        "description": "Formed in 2010, the Mayor's Office of New Urban Mechanics serves as the City of Boston's innovation incubator, building partnerships between internal agencies and outside entrepreneurs to pilot projects that address resident needs. We design and implement experiments and prototypes that address a range of urban issues.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "ruby",
+            "tensorflow"
+        ],
+        "fields": [
+            "web",
+            "machine learning",
+            "gis",
+            "civic tech",
+            "analytics"
+        ]
+    },
+    {
+        "name": "Robolectric",
+        "description": "Robolectric is a unit testing framework for Android. With Robolectric, your tests run in a simulated Android environment inside a JVM, without the overhead and flakiness of an emulator.",
+        "tech-stack": [
+            "android",
+            "java",
+            "jvm",
+            "asm"
+        ],
+        "fields": [
+            "testing",
+            "mobile"
+        ]
+    },
+    {
+        "name": "syslog-ng",
+        "description": "Why syslog-ng?\n\n\nWith syslog-ng, you can collect logs from a wide range of sources, process them in near real-time and deliver them to a wide variety of destinations.\n\nsyslog-ng allows you to flexibly collect, parse, classify, and correlate logs from across your infrastructure (even from routers, embedded systems) and store or route them to log analysis tools.",
+        "tech-stack": [
+            "c",
+            "python",
+            "sql",
+            "elasticsearch",
+            "kafka"
+        ],
+        "fields": [
+            "cloud",
+            "data processing pipeline",
+            "reliable log transfer",
+            "logging",
+            "high-performance data processing"
+        ]
+    },
+    {
+        "name": "Wagtail",
+        "description": "We build Wagtail, a popular content management system. It's built on Python, by an active and engaged open source community, which has grown rapidly since Wagtail's release in 2014.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "django"
+        ],
+        "fields": [
+            "web",
+            "accessibility",
+            "cms"
+        ]
+    },
+    {
+        "name": "TianoCore",
+        "description": "Welcome to TianoCore, the community supporting an open source implementation of the Unified Extensible Firmware Interface (UEFI). EDK II is a modern, feature-rich, cross-platform firmware development environment for the UEFI and UEFI Platform Initialization (PI) specifications.",
+        "tech-stack": [
+            "c",
+            "python",
+            "rust",
+            "golang",
+            "uefi"
+        ],
+        "fields": [
+            "firmware",
+            "uefi",
+            "edk2",
+            "acpi",
+            "BIOS"
+        ]
+    },
+    {
+        "name": "Monado",
+        "description": "Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform, Windows or Android, supporting a wide range of AR/VR peripherals, such as HMDs, cameras, controllers, sensors/trackers, etc..",
+        "tech-stack": [
+            "opengl",
+            "vulkan",
+            "openxr",
+            "Graphics",
+            "XR"
+        ],
+        "fields": [
+            "vr",
+            "xr",
+            "AR"
+        ]
+    },
+    {
+        "name": "JBoss Community",
+        "description": "JBoss Community is a community of open source projects. The community hosts a large number of projects that are written in various programming languages.",
+        "tech-stack": [
+            "java",
+            "rust",
+            "golang"
+        ],
+        "fields": [
+            "iot",
+            "cloud",
+            "microservices",
+            "kubernetes"
+        ]
+    },
+    {
+        "name": "SPDX",
+        "description": "SPDX is an open standard for communicating software bill of material information, including provenance, license, security, and other related information. SPDX reduces redundant work by providing common formats for organizations and communities to share important data, thereby streamlining and improving compliance, security, and dependability.",
+        "tech-stack": [
+            "python",
+            "java",
+            "json",
+            "go",
+            "rdf"
+        ],
+        "fields": [
+            "compliance",
+            "licensing",
+            "data",
+            "vulnerabilities"
+        ]
+    },
+    {
+        "name": "The Honeynet Project",
+        "description": "The Honeynet Project is a leading international 501c3 non-profit security research organization, dedicated to investigating the latest attacks and developing open source security tools to improve Internet security. With Chapters around the world, our volunteers have contributed to fight against malware (such as Conficker), discovering new attacks and creating security tools used by businesses and government agencies all over the world.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "django",
+            "go",
+            "docker"
+        ],
+        "fields": [
+            "honeypots",
+            "malware analysis",
+            "Threat Intelligence"
+        ]
+    },
+    {
+        "name": "Software Heritage",
+        "description": "Software Heritage is an archival project for source code and its development history.\r\n\r\nIts long-term mission is to collect, preserve, and share our entire Software Commons, that is the body of knowledge expressed as publicly available software source code.",
+        "tech-stack": [
+            "python",
+            "postgresql",
+            "javascript",
+            "django",
+            "git"
+        ],
+        "fields": [
+            "big data",
+            "digital preservation",
+            "source code management",
+            "floss",
+            "big code"
+        ]
+    },
+    {
+        "name": "Haiku",
+        "description": "Haiku is a fast, efficient, easy to use and lean open source operating system inspired by the BeOS that specifically targets personal computing.\n\nHaiku is not a Linux distribution, nor does it use the Linux kernel.",
+        "tech-stack": [
+            "c++",
+            "posix",
+            "unix"
+        ],
+        "fields": [
+            "desktop",
+            "kernel"
+        ]
+    },
+    {
+        "name": "Chromium",
+        "description": "The Chromium projects include Chromium and Chromium OS, the open-source projects behind the Google Chrome browser and Google Chrome OS, respectively.\n\nChromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "java",
+            "c++",
+            "git"
+        ],
+        "fields": [
+            "web",
+            "browser",
+            "operating-system"
+        ]
+    },
+    {
+        "name": "MetaBrainz Foundation Inc",
+        "description": "The MetaBrainz Foundation is a non-profit that believes in free, open access to data. It has been set up to build community maintained databases and make them available in the public domain or under Creative Commons licenses.",
+        "tech-stack": [
+            "python",
+            "react",
+            "perl",
+            "postgres",
+            "spark"
+        ],
+        "fields": [
+            "open data",
+            "music",
+            "books",
+            "Music recommendation",
+            "music social network"
+        ]
+    },
+    {
+        "name": "IOOS",
+        "description": "IOOS is our eyes on the ocean, coasts, and Great Lakes. We are an integrated network of people and technology gathering observing data and developing tracking and predictive tools to benefit the economy, the environment, and public safety at home, across the nation, and around the globe.",
+        "tech-stack": [
+            "python",
+            "ocean science"
+        ],
+        "fields": [
+            "open data",
+            "data science"
+        ]
+    },
+    {
+        "name": "X.Org Foundation",
+        "description": "The X.Org Foundation (or X.",
+        "tech-stack": [
+            "opengl",
+            "vulkan",
+            "x11",
+            "wayland",
+            "DRM"
+        ],
+        "fields": [
+            "graphics",
+            "drivers"
+        ]
+    },
+    {
+        "name": "libcamera",
+        "description": "Cameras are complex devices that need heavy hardware image processing operations. Control of the processing is based on advanced algorithms that must run on a programmable processor.",
+        "tech-stack": [
+            "c/c++",
+            "linux kernel",
+            "qt5",
+            "gstreamer",
+            "v4l2"
+        ],
+        "fields": [
+            "camera",
+            "image prcessing"
+        ]
+    },
+    {
+        "name": "sktime",
+        "description": "sktime provides an easy-to-use, flexible and modular open-source framework for a wide range of time series machine learning tasks. It offers scikit-learn compatible interfaces and model composition tools, with the goal to make the ecosystem more usable and interoperable as a whole.",
+        "tech-stack": [
+            "python",
+            "github",
+            "sphinx",
+            "scikit-learn"
+        ],
+        "fields": [
+            "data science",
+            "ai",
+            "time series",
+            "toolbox frameworks"
+        ]
+    },
+    {
+        "name": "Learning Equality",
+        "description": "Learning Equality is an education technology non-profit that develops, maintains and supports Kolibri, an adaptable set of open solutions specially designed to support learning for the half of the world without Internet access.\n\nLaunched in 2017, Kolibri is an end-to-end suite of open-source tools, content, and DIY support materials, designed for offline-first teaching and learning.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "django",
+            "vue.js"
+        ],
+        "fields": [
+            "education",
+            "distributed databases",
+            "offline",
+            "learning"
+        ]
+    },
+    {
+        "name": "SCoRe Lab",
+        "description": "The SCoRe Lab has conducted research covering various aspects of security, digital forensic, mobile applications, cloud, blockchain and software tools. The goal of our research is to generate computing solutions by identifying low-cost methodologies and strategies that lead to sustainability.",
+        "tech-stack": [
+            "python",
+            "java",
+            "go",
+            "nodejs",
+            "reactjs"
+        ],
+        "fields": [
+            "security",
+            "web",
+            "machine learning",
+            "cloud"
+        ]
+    },
+    {
+        "name": "The JPF team",
+        "description": "The Java Pathfinder (JPF) project was initially conceived and developed at NASA Ames Research Center in 1999. JPF was open sourced in April 2005 as one of the first ongoing NASA development projects to date, and it is now released under the Apache license, 2.",
+        "tech-stack": [
+            "android",
+            "java",
+            "distributed systems",
+            "jvm"
+        ],
+        "fields": [
+            "model checking",
+            "symbolic execution",
+            "verification of concurrent systems",
+            "program analysis",
+            "test input generation"
+        ]
+    },
+    {
+        "name": "Git",
+        "description": "Git is the most widely-used revision control system in Open Source. It is a distributed system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.",
+        "tech-stack": [
+            "shell script",
+            "git",
+            "c language"
+        ],
+        "fields": [
+            "version control",
+            "dvcs"
+        ]
+    },
+    {
+        "name": "libssh",
+        "description": "This project is for programmers needing a working SSH implementation by the mean of a library. The complete control of the client is made by the programmer.",
+        "tech-stack": [
+            "c",
+            "ssh"
+        ],
+        "fields": [
+            "security",
+            "cryptography"
+        ]
+    },
+    {
+        "name": "Public Lab",
+        "description": "Public Lab is a small non-profit which supports communities facing environmental problems. Our work involves open source hardware, developed collaboratively across our network of community groups, environmental advocates, scientists, and organizers -- and the software we create supports their work in collecting, analyzing and understanding environmental problems.",
+        "tech-stack": [
+            "javascript",
+            "ruby on rails"
+        ],
+        "fields": [
+            "science",
+            "environment",
+            "community",
+            "documentation",
+            "forum"
+        ]
+    },
+    {
+        "name": "Mixxx",
+        "description": "Mixxx is a feature rich DJ mixing  application. It supports many MIDI and HID DJ controllers, runs on Win Linux and MacOs.",
+        "tech-stack": [
+            "javascript",
+            "c++",
+            "qt"
+        ],
+        "fields": [
+            "music",
+            "dj",
+            "streaming"
+        ]
+    },
+    {
+        "name": "Open Chemistry",
+        "description": "The Open Chemistry project is a collection of open source, cross platform libraries and applications for the exploration, analysis and generation of chemical data. The organization is an umbrella of projects developed by long-time collaborators and innovators in open chemistry such as the Avogadro, Open Babel, RDKit and cclib projects.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "opengl",
+            "c++",
+            "c++14"
+        ],
+        "fields": [
+            "data science",
+            "graphics",
+            "scientific visualization",
+            "cheminformatics",
+            "quantum chemistry"
+        ]
+    },
+    {
+        "name": "rocket.chat",
+        "description": "Ultimate open source team chat and communications platform\n\nRocket.Chat is one of the largest active open source (permissive MIT source license) nodeJS communications platform communities on GitHub, connecting 1500+ global community contributors (across projects) from 30+ countries, with 31700+ GitHub stars, 6500 forks, 490+ total releases and 12,000+ issues since inception in 2015.",
+        "tech-stack": [
+            "javascript",
+            "raspberry pi",
+            "typescript",
+            "node",
+            "meteorJS"
+        ],
+        "fields": [
+            "communications",
+            "messaging",
+            "group chat",
+            "Team Collaboration",
+            "Chat platform"
+        ]
+    },
+    {
+        "name": "The FreeBSD Project",
+        "description": "FreeBSD is an advanced operating system for server, desktop, and embedded computer platforms.  It offers advanced networking, impressive security features, and world class performance.",
+        "tech-stack": [
+            "c",
+            "llvm",
+            "assembly",
+            "make",
+            "POSIX shell"
+        ],
+        "fields": [
+            "virtualization",
+            "operating system",
+            "Embedded System"
+        ]
+    },
+    {
+        "name": "MZmine",
+        "description": "Mass spectrometry is an analytical technique that measures the mass and abundance of small molecules with very high precision. However, the datasets produced by mass spectrometry instruments are complex and multi-dimensional.",
+        "tech-stack": [
+            "java",
+            "javafx"
+        ],
+        "fields": [
+            "visualization",
+            "mass spectrometry",
+            "biochemistry",
+            "feature detection",
+            "ion mobility"
+        ]
+    },
+    {
+        "name": "NumFOCUS",
+        "description": "NumFOCUS supports and promotes world-class, innovative, open source scientific software. Most individual projects, even the wildly successful ones, find the overhead of a non-profit to be too large for their community to bear.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "r",
+            "julia"
+        ],
+        "fields": [
+            "data science",
+            "graphics",
+            "scientific computing",
+            "numerical computation"
+        ]
+    },
+    {
+        "name": "BRL-CAD",
+        "description": "<p>This is the place to be if you love computer graphics.  We do 2D/3D modeling, 3D printing, solid geometry, design, and more.",
+        "tech-stack": [
+            "python",
+            "c/c++",
+            "opengl",
+            "opencl",
+            "scripting"
+        ],
+        "fields": [
+            "geometry",
+            "2d/3d graphics",
+            "ray tracing",
+            "high-performance computing",
+            "conversion standards"
+        ]
+    },
+    {
+        "name": "National Resource for Network Biology (NRNB)",
+        "description": "The National Resource for Network Biology (NRNB, https://www.nrnb.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "java",
+            "xml",
+            "r"
+        ],
+        "fields": [
+            "web application",
+            "data science",
+            "graphics",
+            "scientific computing",
+            "network biology"
+        ]
+    },
+    {
+        "name": "Joomla!",
+        "description": "The Joomla CMS is a PHP based application that powers about 2.2% of the web, 3.",
+        "tech-stack": [
+            "mysql",
+            "javascript",
+            "html",
+            "php",
+            "css"
+        ],
+        "fields": [
+            "web",
+            "programming languages",
+            "web development",
+            "web applications",
+            "cms"
+        ]
+    },
+    {
+        "name": "OpenStreetMap",
+        "description": "OpenStreetMap is a crowdsourcing project that creates and distributes free geographic data for the world. Our data is collected by hundreds of thousands of contributors around the globe and released with an open-content license.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "java",
+            "c++",
+            "sql"
+        ],
+        "fields": [
+            "databases",
+            "routing",
+            "gis",
+            "ui",
+            "geocoding"
+        ]
+    },
+    {
+        "name": "MuseScore",
+        "description": "MuseScore's main purpose is the creation of high-quality engraved musical scores in a \"What-You-See-Is-What-You-Get\" environment. It supports unlimited staves, linked parts and part extraction, tablature, MIDI input and output, percussion notation, cross-staff beaming, automatic transposition, lyrics (multiple verses), fretboard diagrams, and in general everything commonly used in sheet music.",
+        "tech-stack": [
+            "c++",
+            "qt",
+            "qml",
+            "cmake"
+        ],
+        "fields": [
+            "music",
+            "midi",
+            "musicxml",
+            "sheet music",
+            "music notation"
+        ]
+    },
+    {
+        "name": "Python Software Foundation",
+        "description": "Python is a programming language that lets you work more quickly and integrate your systems more effectively.\n\nThe Python Software Foundation serves as an umbrella organization to a\nvariety of Python-related projects, as well as sponsoring projects related to the\ndevelopment of the Python language.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "sqlite"
+        ],
+        "fields": [
+            "security",
+            "database",
+            "science",
+            "design"
+        ]
+    },
+    {
+        "name": "ArduPilot",
+        "description": "ArduPilot is the world's most widely used open source flight code software for unmanned autonomous vehicles including planes, multicopters, helicopters, cars, boats, submarines, blimps, antenna trackers and much more.\n\nWritten primarily in C++, ArduPilot supports over 70 different types of autopilot hardware including the well known Pixhawk autopilot.",
+        "tech-stack": [
+            "python",
+            "lua",
+            "c++",
+            "pixhawk"
+        ],
+        "fields": [
+            "robotics",
+            "Drone",
+            "autonomous vehicle",
+            "UGV",
+            "unmanned vehicle"
+        ]
+    },
+    {
+        "name": "PEcAn Project",
+        "description": "Climate change science has witnessed an explosion in the amount and types of data that can be brought to bear on the potential responses of the terrestrial carbon cycle and biodiversity to global change. Many of the most pressing questions about global change are not necessarily limited by the need to collect new data as much as by our ability to synthesize existing data.",
+        "tech-stack": [
+            "r",
+            "docker",
+            "api",
+            "geospatial"
+        ],
+        "fields": [
+            "data science",
+            "ecosystem models",
+            "scientific visualization",
+            "climate science",
+            "Ecological Forecasting,"
+        ]
+    },
+    {
+        "name": "TensorFlow",
+        "description": "TensorFlow is an open-source machine learning framework for everyone. Originally developed by Google, TensorFlow now has >1,000 contributors from all around the world.",
+        "tech-stack": [
+            "machine learning",
+            "tensorflow",
+            "ai",
+            "Jax",
+            "keras"
+        ],
+        "fields": [
+            "education",
+            "research",
+            "machine learning"
+        ]
+    },
+    {
+        "name": "The ENIGMA Team",
+        "description": "ENIGMA is a game development environment comprising an IDE, Compiler, and Game Engine. \n\nENIGMA is meant to be simple to learn and even simpler to work with.",
+        "tech-stack": [
+            "opengl",
+            "c++",
+            "qt5"
+        ],
+        "fields": [
+            "graphics",
+            "game development",
+            "compiler",
+            "programming",
+            "game design"
+        ]
+    },
+    {
+        "name": "Department of Biomedical Informatics, Emory University",
+        "description": "Biomedical Informatics is a multidisciplinary field that is motivated by our desire to improve diagnosis, clinical care, and human health, through novel computational approaches to use (and learn from) biomedical and clinical data. We use our expertise in computer science and informatics by developing various enabling tools, technologies, and algorithms to solve specific biomedical and clinical applications.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "java",
+            "workflows",
+            "dicom"
+        ],
+        "fields": [
+            "science and medicine",
+            "data integration",
+            "workflows",
+            "radiology",
+            "distributed system"
+        ]
+    },
+    {
+        "name": "Rizin",
+        "description": "The Rizin project is a fork of the famous Radare2 project that started in 2006. Since then the codebase has been rewritten multiple times, modularized and extended to support many new features.",
+        "tech-stack": [
+            "c",
+            "python",
+            "c++",
+            "qt"
+        ],
+        "fields": [
+            "reverse engineering",
+            "computer security",
+            "debugging",
+            "emulation",
+            "disassembly"
+        ]
+    },
+    {
+        "name": "Red Hen Lab",
+        "description": "Red Hen Lab is an international distributed cooperative of researchers in multimodal communication. We are senior professors at major research universities, senior developers in technology corporations.",
+        "tech-stack": [
+            "python",
+            "machine learning",
+            "computer vision",
+            "nlp",
+            "data science"
+        ],
+        "fields": [
+            "data science",
+            "media",
+            "language",
+            "multimodal communication",
+            "gesture"
+        ]
+    },
+    {
+        "name": "DBpedia",
+        "description": "DBpedia is a crowd-sourced community effort to extract structured information from Wikipedia and make this information available on the Web. It allows for a global and unified access to Knowledge Graphs.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "java",
+            "scala",
+            "rdf"
+        ],
+        "fields": [
+            "natural language processing",
+            "semantic web",
+            "linked data",
+            "knowledge graph",
+            "data extraction"
+        ]
+    },
+    {
+        "name": "Center for Translational Data Science",
+        "description": "We develop and operate large-scale data platforms to support research in topics of societal interest, including cancer, cardiovascular disease, inflammatory bowel disease (IBD), birth defects, veterans\u2019 health, pain management, opioid use disorder, and environmental science. We also develop new machine learning and AI algorithms over the data in our platforms.",
+        "tech-stack": [
+            "python",
+            "aws"
+        ],
+        "fields": [
+            "bioinformatics",
+            "data science",
+            "cloud",
+            "Data Meshes"
+        ]
+    },
+    {
+        "name": "Zulip",
+        "description": "Zulip is the only modern team chat app that is ideal for both live and asynchronous conversations. Zulip has a web app, a cross-platform mobile app for iOS and Android, cross-platform desktop and terminal apps, and over 100 native integrations.",
+        "tech-stack": [
+            "python",
+            "django",
+            "typescript",
+            "react native",
+            "electron"
+        ],
+        "fields": [
+            "mobile",
+            "great developer tooling",
+            "visual design",
+            "teaching quality codebase",
+            "team chat"
+        ]
+    },
+    {
+        "name": "Organic Maps",
+        "description": "Organic Maps is the ultimate companion app for travelers, tourists, hikers, and cyclists:\n\n- Detailed offline maps with places that don't exist on other maps, thanks to OpenStreetMap\n- Cycling routes, hiking trails, and walking paths\n- Contour lines, elevation profiles, peaks, and slopes\n- Turn-by-turn walking, cycling, and car navigation with voice guidance\n- Fast offline search on the map\n- Bookmarks export and import in KML/KMZ formats (GPX is planned)\n- Dark Mode to protect your eyes\n- Countries and regions don't take a lot of space\n- Free and open-source\n\nOrganic Maps is pure and organic, made with love:\n\n- Respects your privacy\n- Saves your battery\n- No unexpected mobile data charges.",
+        "tech-stack": [
+            "android",
+            "java",
+            "c++",
+            "ios",
+            "OpenStreetMap"
+        ],
+        "fields": [
+            "privacy",
+            "maps",
+            "navigation",
+            "mobile",
+            "offline"
+        ]
+    },
+    {
+        "name": "The Linux Foundation",
+        "description": "The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux. Founded in 2007 as a merger of the former Free Standards Group (FSG) and the former Open Source Developer Lab (OSDL), the LF sponsors the work of Linux creator Linus Torvalds and is supported by leading Linux and open source companies and developers from around the world.",
+        "tech-stack": [
+            "c",
+            "linux",
+            "c++",
+            "cups",
+            "ipp"
+        ],
+        "fields": [
+            "kernel",
+            "automotive",
+            "printing",
+            "iio",
+            "zephyr"
+        ]
+    },
+    {
+        "name": "Casbin",
+        "description": "Casbin is a powerful and efficient open-source access control library. It provides support for enforcing authorization based on various access control models like ACL, RBAC, ABAC for Golang, Java, Node.",
+        "tech-stack": [
+            "javascript",
+            "java",
+            "go",
+            "OIDC",
+            "OAuth"
+        ],
+        "fields": [
+            "security",
+            "cloud",
+            "authorization",
+            "IAM",
+            "Authentication"
+        ]
+    },
+    {
+        "name": "Ruby",
+        "description": "The Ruby organization collects mentors and students working on the Ruby language (MRI), the Ruby packaging system (Bundler, RubyGems, and RubyGems.org), and other Ruby projects.",
+        "tech-stack": [
+            "ruby on rails",
+            "ruby",
+            "rubygems",
+            "bundler"
+        ],
+        "fields": [
+            "security",
+            "web"
+        ]
+    },
+    {
+        "name": "GNU Radio",
+        "description": "GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios. It can be used with readily-available low-cost external RF hardware to create software-defined radios, or without hardware in a simulation-like environment.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "qt",
+            "simd"
+        ],
+        "fields": [
+            "real-time",
+            "dsp",
+            "communications engineering",
+            "cybersecurity",
+            "Software-Defined Radio"
+        ]
+    },
+    {
+        "name": "The Tor Project",
+        "description": "We believe everyone should be able to explore the internet with privacy. We are the Tor Project, a 501(c)(3) US nonprofit.",
+        "tech-stack": [
+            "c",
+            "python",
+            "rust"
+        ],
+        "fields": [
+            "security",
+            "privacy",
+            "anti-censorship",
+            "Human Rights",
+            "Surveillance"
+        ]
+    },
+    {
+        "name": "LEAP Encryption Access Project",
+        "description": "We built a simple, easy-to-use VPN. We work with trusted service providers to build and brand their VPN service.",
+        "tech-stack": [
+            "java",
+            "golang",
+            "qt5",
+            "docker",
+            "ansible"
+        ],
+        "fields": [
+            "privacy",
+            "vpn",
+            "Circumvention"
+        ]
+    },
+    {
+        "name": "Purr Data",
+        "description": "Purr Data is a visual programming language with an emphasis on generating sound, video, 2D/3D graphics, and connecting through sensors, input devices, and MIDI as well as OSC devices. It has an HTML5 frontend.",
+        "tech-stack": [
+            "c",
+            "javascript",
+            "html5",
+            "Emscripten"
+        ],
+        "fields": [
+            "web",
+            "graphics",
+            "audio",
+            "realtime"
+        ]
+    },
+    {
+        "name": "FOSSology",
+        "description": "FOSSology is an open source license compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line.",
+        "tech-stack": [
+            "python",
+            "postgresql",
+            "c/c++",
+            "php",
+            "reactjs"
+        ],
+        "fields": [
+            "automation",
+            "spdx",
+            "license compliance",
+            "nlp",
+            "compliance automation"
+        ]
+    },
+    {
+        "name": "MariaDB",
+        "description": "MariaDB Foundation is the non-profit organization behind MariaDB Server, the fastest growing open source databases. MariaDB Foundation's mission is to ensure the continuity of the MariaDB Server code as well as foster and facilitated collaboration within the MariaDB ecosystem.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "c/c++",
+            "perl",
+            "databases"
+        ],
+        "fields": [
+            "Database Engines",
+            "SQL Features"
+        ]
+    },
+    {
+        "name": "GNOME Foundation",
+        "description": "The GNOME Foundation is a non-profit organization that believes in a world where everyone is empowered by technology they can trust. We do this by building a diverse and sustainable free software personal computing ecosystem.",
+        "tech-stack": [
+            "c",
+            "linux",
+            "rust",
+            "gtk",
+            "Flatpak"
+        ],
+        "fields": [
+            "operating systems",
+            "desktop",
+            "graphics",
+            "open source",
+            "apps"
+        ]
+    },
+    {
+        "name": "Electron",
+        "description": "Electron is a framework for building desktop applications using JavaScript, HTML, and CSS. By embedding Chromium and Node.",
+        "tech-stack": [
+            "javascript",
+            "node.js",
+            "c++",
+            "typescript",
+            "Chromium"
+        ],
+        "fields": [
+            "desktop",
+            "framework",
+            "javascript"
+        ]
+    },
+    {
+        "name": "OSGeo (Open Source Geospatial Foundation)",
+        "description": "The Open Source Geospatial Foundation (OSGeo) is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community driven development.<br/><br/>\n\nOSGeo serves as an umbrella organization for the Open Source Geospatial community in general and several code projects in particular:<br/>\n* Web Mapping: deegree, geomajas, GeoMOOSE, GeoServer, Mapbender, MapFish, MapGuide Open Source, MapServer, OpenLayers.",
+        "tech-stack": [
+            "c",
+            "python",
+            "javascript",
+            "java",
+            "c++"
+        ],
+        "fields": [
+            "open science",
+            "gis",
+            "citizen science",
+            "geolocation",
+            "mapping"
+        ]
+    },
+    {
+        "name": "Global Alliance for Genomics and Health",
+        "description": "The Global Alliance for Genomics and Health (GA4GH) was formed to help accelerate the potential of genomic medicine to advance human health. It brings together over 400 leading genome institutes and centers with IT industry leaders to create global standards and tools for the secure, privacy respecting and interoperable sharing of Genomic data.",
+        "tech-stack": [
+            "python",
+            "postgresql",
+            "java",
+            "react",
+            "rust"
+        ],
+        "fields": [
+            "web",
+            "genomics",
+            "bioinformatics",
+            "genetics",
+            "standards"
+        ]
+    },
+    {
+        "name": "Blender Foundation",
+        "description": "Blender is a free and open source 3D creation suite, providing individuals and small teams a complete pipeline for 3D graphics, modeling, animation and games.\n\nBlender is being made by 100s of active volunteers from all around the world; by studios and individual artists, professionals and hobbyists, scientists and students, vfx experts and animators, and so on.",
+        "tech-stack": [
+            "c",
+            "python",
+            "opengl",
+            "c++",
+            "vulkan"
+        ],
+        "fields": [
+            "games",
+            "graphics",
+            "3d",
+            "rendering",
+            "animation"
+        ]
+    },
+    {
+        "name": "RTEMS Project",
+        "description": "RTEMS (Real-Time Executive for Multiprocessor Systems) is a free real-time operating system (RTOS) designed for deeply embedded systems such as automobile electronics, robotic controllers, and on-board satellite instruments. \n\nRTEMS is free open source software that supports multi-processor systems for over a dozen CPU architectures and over 150 specific system boards.",
+        "tech-stack": [
+            "python",
+            "c/c++",
+            "assembly",
+            "posix"
+        ],
+        "fields": [
+            "kernel",
+            "embedded",
+            "real-time",
+            "multicore",
+            "rtos"
+        ]
+    },
+    {
+        "name": "coreboot",
+        "description": "coreboot provides a fast, reliable, secure, and predictable boot-firmware solution for numerous modern and legacy chipsets. There are millions of devices running coreboot, including Google Chromebooks and Chromeboxes, and it runs in many datacenters.",
+        "tech-stack": [
+            "c",
+            "assembly",
+            "arm",
+            "x86"
+        ],
+        "fields": [
+            "hardware",
+            "drivers",
+            "firmware",
+            "boot loader",
+            "BIOS"
+        ]
+    },
+    {
+        "name": "Submitty",
+        "description": "Submitty is an open source programming assignment submission system with secure and automated testing and grading, efficient manual TA/instructor grading, and additional tools for overall course management and communication between students and instructional staff. Submitty was launched by the Rensselaer Center for Open Source Software (RCOS) in 2014.",
+        "tech-stack": [
+            "python",
+            "postgresql",
+            "javascript",
+            "c++",
+            "php"
+        ],
+        "fields": [
+            "education",
+            "visualization",
+            "web",
+            "privacy/security",
+            "communication"
+        ]
+    },
+    {
+        "name": "CNCF",
+        "description": "Cloud Native Computing Foundation (CNCF) serves as the vendor-neutral home for many of the fastest-growing open source projects, including Kubernetes, Prometheus, and Envoy..",
+        "tech-stack": [
+            "prometheus",
+            "kubernetes",
+            "OpenTelemetry",
+            "envoy"
+        ],
+        "fields": [
+            "cloud",
+            "cloud native",
+            "observability"
+        ]
+    },
+    {
+        "name": "MBDyn",
+        "description": "MBDyn is the first free general purpose Multibody Dynamics analysis software. It has been developed at the Dipartimento di Scienze e Tecnologie Aerospaziali (formerly Dipartimento di Ingegneria Aerospaziale) of the University \"Politecnico di Milano\", Italy.",
+        "tech-stack": [
+            "python",
+            "c++"
+        ],
+        "fields": [
+            "robotics",
+            "scientific computing",
+            "multibody dynamics",
+            "aeroelasticity",
+            "Structural engineering"
+        ]
+    },
+    {
+        "name": "Responsible AI and Human Centred Technology",
+        "description": "Responsible AI & Human-Centered Technology (RAI-HCT) is Google Research\u2019s center-of-excellence focused on ensuring that AI/ML and its development positively impacts our users and the world, particularly marginalized communities. RAI-HCT has both researchers, focused on developing breakthrough innovations around responsible AI topics (e.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "Technical writing"
+        ],
+        "fields": [
+            "machine learning",
+            "ai",
+            "Fairness",
+            "Robustness",
+            "Safety",
+            "Interpretibility"
+        ]
+    },
+    {
+        "name": "Sugar Labs",
+        "description": "Sugar is an activity-focused, free/libre open-source software learning platform for children. Collaboration, reflection, and discovery are integrated directly into the user interface.",
+        "tech-stack": [
+            "python",
+            "gtk",
+            "typescript",
+            "javascipt"
+        ],
+        "fields": [
+            "education",
+            "games",
+            "desktop"
+        ]
+    },
+    {
+        "name": "XMPP Standards Foundation",
+        "description": "The XMPP Standards Foundation (XSF) is an independent, nonprofit standards development organization with the mission to build an open, secure, feature-rich, federated infrastructure for real-time communication and collaboration over the Internet.\n\nWe seek to achieve that goal by developing the world\u2019s best open protocols for instant messaging, presence, and other forms of near-real-time communication, based on the IETF\u2019s Extensible Messaging and Presence Protocol (XMPP).",
+        "tech-stack": [
+            "javascript",
+            "java",
+            "go",
+            "vala",
+            "xmpp"
+        ],
+        "fields": [
+            "instant messaging",
+            "chat",
+            "WebRTC",
+            "Jingle",
+            "Real-Time Communication"
+        ]
+    },
+    {
+        "name": "The Mifos Initiative",
+        "description": "We are a global 501(c)3 fintech non-profit leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world\u2019s 3 billion poor and underbanked. Mifos has pioneered open source banking technology for the past fifteen years transforming the entire sector at each major stage of evolution from microfinance to financial inclusion to digital financial services and now embedded finance.",
+        "tech-stack": [
+            "android",
+            "java",
+            "kotlin",
+            "spring",
+            "angular"
+        ],
+        "fields": [
+            "cloud",
+            "ai",
+            "fintech",
+            "financial inclusion",
+            "mobile banking"
+        ]
+    },
+    {
+        "name": "Ste||ar group",
+        "description": "The STE||AR Group is an international team of researchers who understand that a new approach to parallel computation is needed.  Our work is crafted around the idea that we need to invent new ways to more efficiently use the resources that we have and use the knowledge that we gain to help guide the creation of the machines of tomorrow.",
+        "tech-stack": [
+            "c++",
+            "hpc"
+        ],
+        "fields": [
+            "library",
+            "optimization",
+            "parallel algorithms",
+            "hpx",
+            "application"
+        ]
+    },
+    {
+        "name": "CERN-HSF",
+        "description": "CERN-HSF (High-Energy Physics Software Foundation) is the umbrella organization for high-energy physics-related projects in GSoC. The HEP Software Foundation (http://hepsoftwarefoundation.",
+        "tech-stack": [
+            "python",
+            "c/c++",
+            "data analysis",
+            "artificial intelligence",
+            "container orchestration"
+        ],
+        "fields": [
+            "machine learning",
+            "big data",
+            "algorithmics",
+            "particle physics",
+            "Performance Optimisation"
+        ]
+    },
+    {
+        "name": "RADAR-base",
+        "description": "RADAR-base (Remote Assessment of Disease And Relapses) is an open source platform for remote patient monitoring. The main focus of RADAR-base is seamless integration of data streams from various wearables and mobile applications to collect patient generated data in real time and store, manage and share the collected data with researchers for retrospective analysis.",
+        "tech-stack": [
+            "java",
+            "kotlin",
+            "docker",
+            "angular",
+            "kafka"
+        ],
+        "fields": [
+            "web",
+            "mhealth",
+            "remote patient monitoring",
+            "micro-services",
+            "devices"
+        ]
+    },
+    {
+        "name": "openSUSE Project",
+        "description": "The openSUSE Project is a worldwide effort that promotes the use of Linux, tools around it, and open source. The openSUSE community is made up of multiple contributing communities that collaborate as part of a global open-source network.",
+        "tech-stack": [
+            "python",
+            "linux",
+            "rust",
+            "Testing",
+            "configuration management"
+        ],
+        "fields": [
+            "operating systems",
+            "software quality",
+            "developer tools",
+            "containers",
+            "edge"
+        ]
+    },
+    {
+        "name": "RoboComp",
+        "description": "RoboComp is an open-source Robotics framework providing the tools to create and modify software components that communicate through public interfaces. Components may require, subscribe, implement or publish interfaces in a seamless way.",
+        "tech-stack": [
+            "python",
+            "opencv",
+            "c++",
+            "qt",
+            "pytorch"
+        ],
+        "fields": [
+            "robotics",
+            "computer vision",
+            "component-based development",
+            "Multi-agent Systems"
+        ]
+    },
+    {
+        "name": "GRAME",
+        "description": "We develop Faust (Functional Audio Stream), a functional programming language for sound synthesis and audio processing with a strong focus on the design of synthesizers, musical instruments, audio effects, etc. Faust targets high-performance signal processing applications and audio plug-ins for a variety of platforms and standards.",
+        "tech-stack": [
+            "c",
+            "python",
+            "javascript",
+            "c++",
+            "typescript"
+        ],
+        "fields": [
+            "audio",
+            "compiler",
+            "digital signal processing",
+            "function programming language"
+        ]
+    },
+    {
+        "name": "Jenkins X",
+        "description": "We are a cloud native CI/CD project with a healthy community. We are trying to make CI/CD easy for kubernetes users by including of the best open source tools in the kubernetes ecosystem and making it work as a single platform.",
+        "tech-stack": [
+            "golang",
+            "kubernetes",
+            "gitops"
+        ],
+        "fields": [
+            "cloud",
+            "CI/CD"
+        ]
+    },
+    {
+        "name": "GeomScale",
+        "description": "GeomScale is a research and development project that delivers open source code for state-of-the-art algorithms at the intersection of data science, optimization, geometric, and statistical computing. The current focus of GeomScale is on scalable algorithms for sampling from high-dimensional distributions, integration, convex optimization, and their applications.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "r",
+            "jupyter",
+            "github-actions"
+        ],
+        "fields": [
+            "mathematics",
+            "data science",
+            "computational biology",
+            "computational geometry",
+            "statistics"
+        ]
+    },
+    {
+        "name": "Ceph",
+        "description": "An open-source storage platform that implements storage on a single distributed computer cluster and provides a 3-in-1 interface for object-, block- and file-level storage..",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "c++"
+        ],
+        "fields": [
+            "distributed systems",
+            "Software-Defined-Storage"
+        ]
+    },
+    {
+        "name": "mlpack",
+        "description": "mlpack is an intuitive, fast, and flexible C++ machine learning library with bindings to other languages. It is meant to be a machine learning analog to LAPACK, and aims to implement a wide array of machine learning methods and functions as a \"swiss army knife\" for machine learning researchers.",
+        "tech-stack": [
+            "c++",
+            "C++ template metaprogramming"
+        ],
+        "fields": [
+            "machine learning",
+            "embedded",
+            "ai",
+            "deep learning",
+            "Neural networks"
+        ]
+    },
+    {
+        "name": "CHIPS Alliance",
+        "description": "CHIPS Alliance develops high-quality, open source hardware components and tooling for silicon devices and FPGAs. By creating an open and collaborative environment, shared infrastructure, processes, legal support and governance, CHIPS Alliance shares resources to lower the cost of development and increase confidence in high-quality open source building blocks it helps manage.",
+        "tech-stack": [
+            "fpga",
+            "chisel",
+            "risc-v",
+            "systemverilog",
+            "ASIC"
+        ],
+        "fields": [
+            "soc",
+            "IP cores",
+            "ASIC design",
+            "HDL",
+            "chiplets"
+        ]
+    },
+    {
+        "name": "Plone Foundation",
+        "description": "Plone is a Python-based CMS built with workflow and security at the forefront. It is developed by a world-wide community and uses modern technologies and techniques.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "react"
+        ],
+        "fields": [
+            "web",
+            "cms"
+        ]
+    },
+    {
+        "name": "Mathesar",
+        "description": "Mathesar provides an intuitive user interface for non-technical users to work with relational databases without any existing knowledge of database concepts.\n\nUsers can either set up a database from scratch or connect to an existing database.",
+        "tech-stack": [
+            "python",
+            "postgresql",
+            "javascript",
+            "django",
+            "svelte"
+        ],
+        "fields": [
+            "databases",
+            "web",
+            "data",
+            "nonprofit",
+            "self-hosted"
+        ]
+    },
+    {
+        "name": "cBioPortal for Cancer Genomics",
+        "description": "The cBioPortal for Cancer Genomics is a resource designed to provide broad community access to cancer genomic data. It provides a unique user\u00ad-friendly and \"biology\u00ad-centric computational user interface\", with the goal of making genomic data more easily accessible to translational scientists, biologists, and clinicians.",
+        "tech-stack": [
+            "mysql",
+            "javascript",
+            "java",
+            "react",
+            "typescript"
+        ],
+        "fields": [
+            "genomics",
+            "cancer",
+            "bioinformatics",
+            "big data",
+            "precision medicine"
+        ]
+    },
+    {
+        "name": "CHAOSS",
+        "description": "The importance of open source software is no longer in question and its importance raises important questions about how we understand the health of the open-source projects we rely on. Unhealthy projects can have negative impacts on the community involved in the project as well as organizations that rely on such projects.",
+        "tech-stack": [
+            "python",
+            "postgresql",
+            "javascript",
+            "machine learning",
+            "airflow"
+        ],
+        "fields": [
+            "Diversity Equity and Inclusion",
+            "open source software metrics",
+            "software sustainability",
+            "community building",
+            "security and software bill of materials"
+        ]
+    },
+    {
+        "name": "QEMU",
+        "description": "The QEMU Project includes the QEMU open source machine emulator and virtualizer and also acts as an umbrella organization for the KVM Linux kernel module and rust-vmm community.\n\nWhen used as a machine emulator, QEMU can run operating systems and programs made for one machine (e.",
+        "tech-stack": [
+            "c",
+            "python",
+            "linux",
+            "rust"
+        ],
+        "fields": [
+            "systems programming",
+            "kernel",
+            "compiler",
+            "emulator",
+            "hypervisor"
+        ]
+    },
+    {
+        "name": "XWiki",
+        "description": "XWiki is an open source software development platform based on the wiki principles, under the LGPL license. In addition to being a full-featured wiki, it is also a second generation wiki allowing effortless development of collaborative web applications.",
+        "tech-stack": [
+            "javascript",
+            "java",
+            "html5",
+            "css3",
+            "velocity"
+        ],
+        "fields": [
+            "web development",
+            "wiki",
+            "platform",
+            "web applications",
+            "structured data"
+        ]
+    },
+    {
+        "name": "PostgreSQL",
+        "description": "PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance..",
+        "tech-stack": [
+            "c",
+            "python",
+            "postgresql",
+            "javascript",
+            "sql"
+        ],
+        "fields": [
+            "web",
+            "database",
+            "ui",
+            "sql",
+            "Benchmark"
+        ]
+    },
+    {
+        "name": "AboutCode",
+        "description": "AboutCode.org is a community of open source developers who are trying to make open source easier to use by providing open source tools to discover, identify and track open source components (aka.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "Django+PostgreSQL",
+            "C/Rust/Go"
+        ],
+        "fields": [
+            "dependencies",
+            "vulnerabilities",
+            "SoftwareCompositionAnalysis",
+            "License",
+            "SBOM"
+        ]
+    },
+    {
+        "name": "OpenCV",
+        "description": "OpenCV promotes the beneficial uses of computer vision in society primarily through maintaining a state-of-the-art open and free code base and via courseware, contests, workshops and conferences. \n\nOpenCV, the Open Source Computer Vision Library includes state of the art computer vision and deep learning algorithms (including running deep networks) and apps.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "deep learning",
+            "ai"
+        ],
+        "fields": [
+            "robotics",
+            "computer vision",
+            "ai",
+            "deep learning"
+        ]
+    },
+    {
+        "name": "Godot Engine",
+        "description": "Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel.",
+        "tech-stack": [
+            "opengl",
+            "c++",
+            "vulkan",
+            "webassembly"
+        ],
+        "fields": [
+            "graphics",
+            "cross-platform",
+            "game engine",
+            "game development",
+            "programming"
+        ]
+    },
+    {
+        "name": "Neutralinojs",
+        "description": "Neutralinojs is a lightweight and portable desktop application development framework. It lets you develop lightweight cross-platform desktop applications using JavaScript, HTML, and CSS.",
+        "tech-stack": [
+            "c",
+            "javascript",
+            "node.js",
+            "c++",
+            "typescript"
+        ],
+        "fields": [
+            "desktop",
+            "framework",
+            "cross-platform",
+            "Application Development"
+        ]
+    },
+    {
+        "name": "Our World In Data",
+        "description": "Poverty, disease, hunger, climate change, war, existential risks, and inequality: The world faces many great and terrifying problems. It is these large problems that our work at Our World in Data focuses on.",
+        "tech-stack": [
+            "python",
+            "mysql",
+            "d3",
+            "typescript",
+            "pandas"
+        ],
+        "fields": [
+            "open data",
+            "data visualisation",
+            "Data cataloging"
+        ]
+    },
+    {
+        "name": "GNU Compiler Collection (GCC)",
+        "description": "The GNU Compiler Collection (GCC) is an optimizing compiler produced by the GNU Project supporting various programming languages, hardware architectures and operating systems. It includes front-ends for C, C++, D, Objective-C, Fortran, Ada, and Go, as well as libraries for these languages (such as libgcc and libstdc++).",
+        "tech-stack": [
+            "c/c++",
+            "gnu make",
+            "gnu autotools"
+        ],
+        "fields": [
+            "compilers",
+            "developer tools",
+            "toolchain",
+            "openmp",
+            "link time optimization"
+        ]
+    },
+    {
+        "name": "Open3D team",
+        "description": "Open3D is an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "cuda",
+            "tensorflow",
+            "pytorch"
+        ],
+        "fields": [
+            "3D machine learning",
+            "3D data processing",
+            "3D visualization",
+            "physically based rendering"
+        ]
+    },
+    {
+        "name": "Society for Arts and Technology (SAT)",
+        "description": "The Society for Arts and Technology [SAT] is a non-profit organization recognized internationally for the development and creative use of immersive technologies, virtual reality and high-speed networks. Founded in 1996, its triple mission as a center for the arts, training and research, is to enable and host teleimmersive multisensorial experiences.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "opengl",
+            "c++",
+            "supercollider"
+        ],
+        "fields": [
+            "web",
+            "graphics",
+            "cloud",
+            "multimedia",
+            "accessibility"
+        ]
+    },
+    {
+        "name": "International Catrobat Association",
+        "description": "Computational thinking for all with free visual coding apps\nThe Catrobat project develops useful frameworks to create games, animations, or apps easily within a short time. This set of mobile creativity tools for smartphones is inspired by the well-known Scratch framework by the Lifelong Kindergarten Group at the MIT Media Lab.",
+        "tech-stack": [
+            "javascript",
+            "android",
+            "swift",
+            "kotlin",
+            "php"
+        ],
+        "fields": [
+            "education",
+            "visual programming",
+            "mobile programming",
+            "game engines",
+            "creativity tools"
+        ]
+    },
+    {
+        "name": "Scala Center",
+        "description": "We are an independent not-for-profit center established at EPFL. Scala Center's Mission is to guide and support the Scala community, coordinate and develop open-source libraries and tools for the benefit of all Scala users, provide deep, and quality, educational materials for Scala.",
+        "tech-stack": [
+            "scala",
+            "scala.js",
+            "scala native"
+        ],
+        "fields": [
+            "education",
+            "compilers",
+            "tooling"
+        ]
+    },
+    {
+        "name": "AOSSIE",
+        "description": "We are an Australian not-for-profit umbrella organization for open-source projects. We believe the open-source philosophy provides a resource-efficient channel to transfer knowledge and achieve innovation and education.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "machine learning",
+            "scala",
+            "Blockchain"
+        ],
+        "fields": [
+            "machine learning",
+            "electronic voting",
+            "natural language processing",
+            "social science"
+        ]
+    },
+    {
+        "name": "Jenkins",
+        "description": "Short description:\n\nJenkins is a popular open source automation server which is used for building, testing, CI/CD, deployment and many other use-cases. Our motto is \"Build great things at any scale\".",
+        "tech-stack": [
+            "javascript",
+            "java",
+            "go",
+            "docker",
+            "kubernetes"
+        ],
+        "fields": [
+            "developer tools",
+            "automation",
+            "continuous integration",
+            "continuous delivery",
+            "devops"
+        ]
+    },
+    {
+        "name": "Kodi",
+        "description": "Kodi is a free and open source (GPL) software media player and entertainment hub for digital media. Kodi is available for Linux, OSX, iOS, Android, and Windows, running on both x86 and ARM-based processors, including the Raspberry Pi.",
+        "tech-stack": [
+            "python",
+            "opengl",
+            "c++",
+            "ffmpeg",
+            "sqlite"
+        ],
+        "fields": [
+            "games",
+            "audio",
+            "video",
+            "media",
+            "tv"
+        ]
+    },
+    {
+        "name": "SageMath",
+        "description": "Mathematicians, scientists, researchers, and students need a powerful tool for their work or study. SageMath is a freely available open-source mathematical software system bundling the functionality of many software libraries, exposing their features in a common interface and extending on top of this with its own powerful algorithms.",
+        "tech-stack": [
+            "python",
+            "cython"
+        ],
+        "fields": [
+            "mathematics",
+            "education",
+            "research"
+        ]
+    },
+    {
+        "name": "Inkscape",
+        "description": "Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "svg"
+        ],
+        "fields": [
+            "web",
+            "graphics",
+            "design"
+        ]
+    },
+    {
+        "name": "SeaQL",
+        "description": "<br/>\n\n<h5>Our Mission</h5>\n<p>We help developers in building data intensive applications in Rust, whether they are web services (GraphQL, gRPC, REST), command line tools or apps.</p>\n<br/>\n\n<h5>Our Vision</h5>\n<p>In the long term, we want to support all open source SQL, NewSQL and NoSQL databases, providing a uniform developer experience to data analytics, transaction processing and schema management.",
+        "tech-stack": [
+            "mysql",
+            "postgresql",
+            "rust",
+            "sql",
+            "sqlite"
+        ],
+        "fields": [
+            "database",
+            "library",
+            "framework",
+            "sql",
+            "rust"
+        ]
+    },
+    {
+        "name": "Free and Open Source Silicon Foundation",
+        "description": "The FOSSi (Free and Open Source Silicon) Foundation is a not-for-profit organization with the support the growing community of open source silicon hardware. We do this with a variety of activities and through Google Summer of Code we bring together enthusiastic mentees and outstanding projects.",
+        "tech-stack": [
+            "verilog",
+            "risc-v",
+            "compiler",
+            "web development"
+        ],
+        "fields": [
+            "hardware",
+            "debug",
+            "web services",
+            "simulation",
+            "electronic design tools"
+        ]
+    },
+    {
+        "name": "Drupal Association",
+        "description": "The Drupal Association is the non-profit organization focused on accelerating Drupal, fostering the growth of the Drupal community, and supporting the project\u2019s vision to create a safe, secure, and open web for everyone..",
+        "tech-stack": [
+            "mysql",
+            "javascript",
+            "html",
+            "php",
+            "symfony"
+        ],
+        "fields": [
+            "web",
+            "cloud",
+            "DXP",
+            "Massive community",
+            "Inclusive"
+        ]
+    },
+    {
+        "name": "52\u00b0North Spatial Information Research GmbH",
+        "description": "52\u00b0North is an open source initiative in the field of geoinformatics. Core topics of our activities are for example sensor web, web-based geoprocessing and earth observation.",
+        "tech-stack": [
+            "javascript",
+            "android",
+            "java",
+            "web services",
+            "ogc standards"
+        ],
+        "fields": [
+            "citizen science",
+            "spatial information infrastructures",
+            "open standards",
+            "data analytics",
+            "Geoinformation"
+        ]
+    },
+    {
+        "name": "LLVM Compiler Infrastructure",
+        "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Despite its name, LLVM has little to do with traditional virtual machines.",
+        "tech-stack": [
+            "llvm",
+            "c++",
+            "clang",
+            "mlir"
+        ],
+        "fields": [
+            "compilers",
+            "development tools",
+            "libraries"
+        ]
+    },
+    {
+        "name": "ScummVM",
+        "description": "ScummVM is a game preservation projects that celebrated its 20th anniversary last year. Originally focused on 2D Point&Click adventure games, its scope widened in 2016 to RPG thanks to a successful GSoC students, and to 3D games in 2020 after the merge with its sister project, ResidualVM.",
+        "tech-stack": [
+            "opengl",
+            "lua",
+            "c++",
+            "assembly",
+            "sdl"
+        ],
+        "fields": [
+            "games",
+            "game engines",
+            "software preservation",
+            "software archeology"
+        ]
+    },
+    {
+        "name": "OpenVINO Toolkit",
+        "description": "Learning and practicing AI is not easy, deploying AI in real applications is challenging and hard. We realized that and created OpenVINO \u2013 an open-source toolkit for bringing AI models to life on the most widespread and available platforms like x86 CPUs and integrated Intel GPUs.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "x86"
+        ],
+        "fields": [
+            "deep learning",
+            "Neural networks",
+            "Edge AI",
+            "DL-inference"
+        ]
+    },
+    {
+        "name": "Jitsi",
+        "description": "Jitsi is a set of Open Source projects which empower users to deploy secure, scalable and easy to use video conferencing platforms with state-of-the-art video quality and features..",
+        "tech-stack": [
+            "javascript",
+            "java",
+            "react",
+            "webrtc",
+            "react native"
+        ],
+        "fields": [
+            "video conferencing",
+            "WebRTC"
+        ]
+    },
+    {
+        "name": "Semi Technologies",
+        "description": "SeMI Technologies creates database software like the open-source Weaviate vector search engine.\nWeaviate is a low-latency vector search engine with out-of-the-box support for different media types (text, images, etc.",
+        "tech-stack": [
+            "python",
+            "machine learning",
+            "golang",
+            "vectors",
+            "natural language processing"
+        ],
+        "fields": [
+            "machine learning",
+            "Vector Database",
+            "Search Engines"
+        ]
+    },
+    {
+        "name": "BeagleBoard.org",
+        "description": "Enabling individuals to define the connected devices in their lives, BeagleBoard.org is the open-source, community-driven hardware precursor to Raspberry Pi, continuing to improve performance, access and openness for embedded development.",
+        "tech-stack": [
+            "linux",
+            "fpga",
+            "risc-v",
+            "dsp",
+            "Zephyr RTOS"
+        ],
+        "fields": [
+            "robotics",
+            "iot",
+            "ai",
+            "software defined radio",
+            "Personal Server"
+        ]
+    },
+    {
+        "name": "Liquid Galaxy project",
+        "description": "Liquid Galaxy is a remarkable panoramic system that is tremendously compelling. It started off as a Google 20% project to run Google Earth across a small cluster of PC's and it has grown from there! Open source applications such as the MPlayer video player have been extended to run on Liquid Galaxy.",
+        "tech-stack": [
+            "python",
+            "linux",
+            "android",
+            "flutter",
+            "Google Earth"
+        ],
+        "fields": [
+            "visualization",
+            "networking",
+            "maps",
+            "cluster",
+            "ux"
+        ]
+    },
+    {
+        "name": "MetaCall",
+        "description": "When working with different technologies and developers of different programming languages, the productivity of the entire team worsens due to the lack of interoperability and communication between them. If the developers need two technologies which are written in different programming languages, for instance, a C/C++ library called from NodeJS, the team usually needs to port to one of the two languages or write a wrapper around them.",
+        "tech-stack": [
+            "python",
+            "c++",
+            "rust",
+            "nodejs",
+            "docker"
+        ],
+        "fields": [
+            "cloud",
+            "polyglot",
+            "faas",
+            "languages",
+            "ffi"
+        ]
+    },
+    {
+        "name": "CircuitVerse.org",
+        "description": "CircuitVerse is an easy to use digital logic circuit simulator which aims at providing a platform to create, share and learn digital circuits. It can run on almost any device without the need for installing any software.",
+        "tech-stack": [
+            "javascript",
+            "rails",
+            "canvas"
+        ],
+        "fields": [
+            "education",
+            "web",
+            "simulation",
+            "pedagogy",
+            "digital logic design"
+        ]
+    },
+    {
+        "name": "AnkiDroid",
+        "description": "Memorize anything with AnkiDroid!<br/><br/>\n\nAnkiDroid lets you learn flashcards very efficiently by showing them just before you would forget. It is fully compatible with the spaced repetition software Anki (including synchronization), which is available for Windows/Mac/Linux/ChromeOS.",
+        "tech-stack": [
+            "android",
+            "java",
+            "rust",
+            "kotlin",
+            "mobile"
+        ],
+        "fields": [
+            "education",
+            "mobile",
+            "android",
+            "user generated content",
+            "Flashcards"
+        ]
+    },
+    {
+        "name": "OpenAstronomy",
+        "description": "OpenAstronomy is a collaboration between open source astronomy and astrophysics projects that are used by researchers and engineers around the world to study our universe either by analysing the data obtained from amazing instruments like the [James Webb Space telescope](https://jwst.nasa.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "julia",
+            "css"
+        ],
+        "fields": [
+            "astronomy",
+            "solar physics",
+            "high energy astrophysics"
+        ]
+    },
+    {
+        "name": "FFmpeg",
+        "description": "FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge.",
+        "tech-stack": [
+            "c",
+            "git",
+            "asm"
+        ],
+        "fields": [
+            "audio",
+            "video",
+            "subtitles",
+            "multimedia"
+        ]
+    },
+    {
+        "name": "CRIU",
+        "description": "CRIU (stands for Checkpoint/Restore In Userspace), is a Linux software. It can freeze a running container (or an individual application) and checkpoint its state to disk.",
+        "tech-stack": [
+            "c",
+            "python",
+            "linux",
+            "go"
+        ],
+        "fields": [
+            "cloud",
+            "containers",
+            "Checkpoint/Restore"
+        ]
+    },
+    {
+        "name": "Micro Electronics Research Lab - UITU",
+        "description": "A non-profit organization fostering research on IoT, AI and ML based architectures leveraging the open-source RISC-V ISA. The main purpose of this Lab is to train undergraduate students for future Silicon industry.",
+        "tech-stack": [
+            "RISCV",
+            "Processor",
+            "Hardware",
+            "systemonchip",
+            "memory"
+        ],
+        "fields": [
+            "iot",
+            "embedded",
+            "Processor",
+            "System on Chip",
+            "RISC-V"
+        ]
+    },
+    {
+        "name": "FRRouting",
+        "description": "FRRouting (FRR) is an IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, PBR, RIP, BFD, Babel, OpenFabric, VRRP, EIGRP, and NHRP.\n\nFRR\u2019s seamless integration with the native Linux/Unix IP networking stacks makes it applicable to a wide variety of use cases including connecting hosts/VMs/containers to the network, advertising network services, LAN switching and routing, Internet access routers, and Internet peering.",
+        "tech-stack": [
+            "c",
+            "linux",
+            "networking",
+            "linux kernel",
+            "routing"
+        ],
+        "fields": [
+            "networking",
+            "software defined networking",
+            "linux",
+            "routing",
+            "systems"
+        ]
+    },
+    {
+        "name": "ReactOS Foundation",
+        "description": "Imagine running your favorite Windows applications and drivers in an open-source environment you can trust. That's ReactOS.",
+        "tech-stack": [
+            "c",
+            "c++",
+            "win32",
+            "nt"
+        ],
+        "fields": [
+            "operating systems",
+            "kernel",
+            "drivers",
+            "windows",
+            "system programming"
+        ]
+    },
+    {
+        "name": "Wikimedia Foundation",
+        "description": "Wikimedia strives to bring about a world in which every single human being can freely share in the sum of all knowledge; through various projects, chapters, and the support structure of the non-profit Wikimedia Foundation. Wikimedia officially supports 13 projects, including Wikipedia, the seventh most popular site on the internet.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "html",
+            "php",
+            "css"
+        ],
+        "fields": [
+            "semantic web",
+            "wikipedia",
+            "wikimedia",
+            "mediawiki",
+            "i18n"
+        ]
+    },
+    {
+        "name": "Homebrew",
+        "description": "Homebrew is a package manager for software that isn't provided by the OS. Homebrew installs packages to their own directory and then symlinks their files into /usr/local (on macOS Intel).",
+        "tech-stack": [
+            "linux",
+            "ruby",
+            "macos"
+        ],
+        "fields": [
+            "linux",
+            "package manager",
+            "macos"
+        ]
+    },
+    {
+        "name": "INCF",
+        "description": "The International Neuroinformatics Coordinating Facility (INCF; www.incf.",
+        "tech-stack": [
+            "python",
+            "javascript",
+            "java",
+            "c++",
+            "gpu"
+        ],
+        "fields": [
+            "machine learning",
+            "data visualization",
+            "neuroscience",
+            "brain modelling",
+            "neuroimage processing"
+        ]
+    }
+]
