@@ -1,2 +1,4 @@
 # GSOC-Org-Scraper
-Programming Club Secy Task 3
+Programming Club Secy Task
+`pip install requests`
+`python3 main.py`
